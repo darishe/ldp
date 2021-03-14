@@ -18,6 +18,4 @@ public class Petroleiro extends Navio{
         this.capacidade = capacidade;
     }
     
- 
-    
 }
